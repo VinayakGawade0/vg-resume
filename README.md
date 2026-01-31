@@ -2,7 +2,7 @@
 
 A sleek, responsive static portfolio built with Bootstrap and custom interactivity. This site is designed to showcase professional experience with a focus on clean UI and user customization.
 
-Resume Link: https://vinayakgawade0.github.io/vg-resume/index.html
+Resume Link: https://vinayakgawade0.github.io/vg-resume/
 
 ---
 
